@@ -5,6 +5,7 @@ import { Component } from '@angular/core';
     //Lo requisitos minimos que debe tener un componente son: selector - template
     selector: 'app-header',
     templateUrl: './header-component.html',
+    styleUrls:['./header-component.css'],
 })
 
 //indica que sera exportado por lo que debe ser importado 

@@ -1,0 +1,12 @@
+.navbar-brand
+{
+    background-color: #C23;
+    border: solid 1px #fff;
+    border-radius: 5px;
+}
+
+.btn-primary {
+    color: #ffffff;
+    background-color: #af2424;
+    border-color: #eee8d5;
+}
